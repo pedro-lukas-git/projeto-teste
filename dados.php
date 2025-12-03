@@ -13,7 +13,7 @@
         }
         .php-output {
             background-color: #ffffff;
-            border: 1px solid #ddd;
+            border: 2px 1px solid red;
             padding: 20px;
             border-radius: 8px;
             display: inline-block;
